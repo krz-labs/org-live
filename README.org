@@ -23,7 +23,7 @@ https://org.krz.sh
 
 * build
 Swift compiled to WebAssembly with [[https://elementary.codes][ElementaryUI]],
-rendering with [[https://gitbay.org/krz/org-swift][OrgSwift]].
+rendering with [[https://github.com/krz-labs/org-swift][OrgSwift]].
 
 Requires the swift.org 6.4.2 toolchain, the 6.4.2 Wasm SDKs, and org-swift
 checked out at =../org-swift=.
